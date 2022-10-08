@@ -1,0 +1,56 @@
+/**
+* @name SoapCord-PC
+* @version 1.0
+* @description big cumgus
+* @author Soap
+* @source https://github.com/soapgreens/soapcordpowercord
+* @website https://twitter.com/SoapDoStuff
+* @updateUrl https://soapgreens.github.io/soapcordpowercord/theme.css
+*/
+
+:root, .theme-dark  {
+/*
+	background variables );
+*/
+    --background-image: url(https://i.imgur.com/LqSvoex.png);
+  	--background-primary: rgba(37, 37, 37, 0.411);
+    --background-secondary: rgba(0, 0, 0, 0.318);
+    --background-secondary-alt: rgba(0, 0, 0, 0.425);
+    --background-color: var(--background-secondary);
+    --background-tertiary: var(--background-secondary);
+    --background-tertiary-alt: rgb(29, 29, 29) ;
+    --background-accent: #5cee9994;
+    --background-accent-alt: #5cee9962;
+    --background-floating: #000000;
+    --background-nested-floating: #1b1b1b;
+    --background-mobile-primary: #181818;
+    --background-mobile-secondary: var(--background-secondary);
+    --background-modifier-hover: rgba(82, 82, 82, 0.16);
+    --background-modifier-active: rgba(86, 86, 87, 0.24);
+    --background-modifier-selected: rgba(87, 87, 87, 0.32);
+    --background-modifier-accent: hsla(0,0%,100%,0.06);
+	  --channeltextarea-background: rgba(0, 0, 0, 0.438) !important;
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --interactive-normal: #b9beb9;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: #35373a;
+    --info-positive-text: #fff;
+    --info-warning-text: #fff;
+    --info-danger-text: #fff;
+    --status-warning-text: #000;
+    --scrollbar-thin-thumb: #202225;
+    --scrollbar-thin-track: transparent;
+    --scrollbar-auto-thumb: #202225;
+    --channels-default: #8e9297;
+    --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
+    --channeltextarea-background: #474747;
+    --activity-card-background: #202225;
+    --textbox-markdown-syntax: #8e9297;
+    --spoiler-revealed-background: #292b2f;
+    --spoiler-hidden-background: #202225;
+    --brand-experiment: rgb(17, 17, 17); 
+    --text-positive: rgb(255, 255, 255);
+    --background-grey: rgb(22, 22, 22);
+}
